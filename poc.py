@@ -28,7 +28,7 @@ def resolver(subdomain):
 if __name__ == "__main__":
 	ap = argparse.ArgumentParser()
 	ap.add_argument("-l","--list",required=True,metavar="",help="Subdomain List")
-	ap.add_argument("-t","--thread",required=True,metavar="",default=5,type=int,help="thread number")
+	ap.add_argument("-t","--thread",metavar="",default=5,type=int,help="thread number")
 	args = ap.parse_args()
 
 	main()
