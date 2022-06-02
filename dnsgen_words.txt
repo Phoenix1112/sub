@@ -68,6 +68,8 @@ administrators
 admins
 ads
 af-south-1
+agent
+agents
 akademia
 akali
 akamai
@@ -199,6 +201,7 @@ demo
 demo1
 demon
 demostration
+design
 dev
 dev1
 develop
@@ -466,6 +469,7 @@ one
 opendsr
 opengdpr
 ops
+optimizely
 order
 orders
 org
@@ -492,6 +496,7 @@ pixel
 pixels
 pl
 play
+plan
 platform
 poland
 pop
@@ -501,6 +506,7 @@ prd
 preferences
 preview
 priv
+privacy
 private
 pro
 prod
@@ -548,6 +554,7 @@ sdk
 search
 secure
 security
+segment
 sept
 server
 service
@@ -649,6 +656,7 @@ web
 web1
 webapi
 webapp
+webhooks
 webmail
 websiteapi
 westeurope
