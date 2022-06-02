@@ -67,6 +67,7 @@ administrator1
 administrators
 admins
 ads
+affiliates
 af-south-1
 agent
 agents
