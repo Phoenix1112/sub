@@ -8,6 +8,15 @@ directors
 enroll
 nonprod
 testuser
+user
+users
+texts
+wifi
+ws1
+wicker
+steph
+puzzle
+rebuild
 0
 1
 10
@@ -154,6 +163,7 @@ bucky
 business
 buy
 c
+ca
 ca-central-1
 cache
 campaign
@@ -407,6 +417,7 @@ latinamerica
 lax
 lax1
 lb
+learn
 legacy
 library
 life
@@ -553,6 +564,7 @@ promo
 promotion
 proxy
 public
+pub
 q
 qa
 qa1
@@ -696,6 +708,7 @@ webapi
 webapp
 webhooks
 webmail
+webmail2
 websiteapi
 westeurope
 worker
