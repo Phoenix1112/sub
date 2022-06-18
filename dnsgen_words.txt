@@ -7,6 +7,7 @@ contract
 directors
 enroll
 nonprod
+testuser
 0
 1
 10
